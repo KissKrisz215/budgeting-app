@@ -4,4 +4,4 @@ Budgeting app created with HTML, CCS and Javascript, accepts numbers as an input
 
 Demo:
 
-Here is a working live demo:
+Here is a working live demo: https://kisskrisz215.github.io/budgeting-app/
